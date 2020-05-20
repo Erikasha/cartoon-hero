@@ -34,6 +34,14 @@ main img {
 	max-width: 100
  }
 
+ p.first{
+ 	font-size: 25px;
+ 	color: #212F3D;
+ 	text-align: left;
+ 	max-width: 800px;
+
+ }
+
  main p {
  	text-align: center;
  	font-size: 19px;
@@ -75,3 +83,4 @@ main img {
  	margin: 0
 
  }
+
